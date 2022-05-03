@@ -1,0 +1,10 @@
+C:\Users\CYH\source\repos\噁蘿絲方塊\噁蘿絲方塊\bin\Debug\噁蘿絲方塊.exe.config
+C:\Users\CYH\source\repos\噁蘿絲方塊\噁蘿絲方塊\bin\Debug\噁蘿絲方塊.exe
+C:\Users\CYH\source\repos\噁蘿絲方塊\噁蘿絲方塊\bin\Debug\噁蘿絲方塊.pdb
+C:\Users\CYH\source\repos\噁蘿絲方塊\噁蘿絲方塊\obj\Debug\噁蘿絲方塊.csproj.AssemblyReference.cache
+C:\Users\CYH\source\repos\噁蘿絲方塊\噁蘿絲方塊\obj\Debug\噁蘿絲方塊.Form1.resources
+C:\Users\CYH\source\repos\噁蘿絲方塊\噁蘿絲方塊\obj\Debug\噁蘿絲方塊.Properties.Resources.resources
+C:\Users\CYH\source\repos\噁蘿絲方塊\噁蘿絲方塊\obj\Debug\噁蘿絲方塊.csproj.GenerateResource.cache
+C:\Users\CYH\source\repos\噁蘿絲方塊\噁蘿絲方塊\obj\Debug\噁蘿絲方塊.csproj.CoreCompileInputs.cache
+C:\Users\CYH\source\repos\噁蘿絲方塊\噁蘿絲方塊\obj\Debug\噁蘿絲方塊.exe
+C:\Users\CYH\source\repos\噁蘿絲方塊\噁蘿絲方塊\obj\Debug\噁蘿絲方塊.pdb
